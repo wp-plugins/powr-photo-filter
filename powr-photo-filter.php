@@ -6,7 +6,7 @@
     /*
     Plugin Name: POWr Photo Filter
     Plugin URI: http://www.powr.io
-    Description: Add dynamic CSS3 filters to any image. Add the widget to your theme, or create a Photo Filter on ANY page or post by using the shortcode [powr-photo-filter]. Then, simply visit your site and click the settings icon to customize your Photo Filter right in the page. Many more plugins & tutorials at POWr.io.
+    Description: Add dynamic filters to any photo or image in seconds! Add the widget to your theme, or create a Photo Filter on ANY page or post by using the shortcode [powr-photo-filter]. Then, simply visit your site and click the settings icon to customize your Photo Filter right in the page. Many more plugins & tutorials at POWr.io.
     Author: POWr.io
     Version: 1.0
     Author URI: http://www.powr.io
