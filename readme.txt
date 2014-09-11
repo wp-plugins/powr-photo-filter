@@ -5,7 +5,7 @@ Donate link: http://powr.io/
 Tags: photo filter, image filter, photo editor, image editor, photo watermark, image watermark, image animation, photo animation, image caption, photo caption, image resize, photo resize, photo editor plugin, image editor plugin, photo editor widget, image editor widget
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -73,7 +73,16 @@ Want a more detailed tutorial? Visit [How to add Photo Filter to your Wordpress 
 = 1.0 =
 First released version.
 
+= 1.1 =
+Improved SSL Support
+
+
 
 == Changelog ==
 = 1.0 =
 * First released version
+
+= 1.1 =
+* Improved SSL Support
+
+

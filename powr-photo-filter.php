@@ -1,14 +1,14 @@
 <?php
     /**
      * @package POWr Photo Filter
-     * @version 1.0
+     * @version 1.1
      */
     /*
     Plugin Name: POWr Photo Filter
     Plugin URI: http://www.powr.io
     Description: Add dynamic filters to any photo or image in seconds! Add the widget to your theme, or create a Photo Filter on ANY page or post by using the shortcode [powr-photo-filter]. Then, simply visit your site and click the settings icon to customize your Photo Filter right in the page. Many more plugins & tutorials at POWr.io.
     Author: POWr.io
-    Version: 1.0
+    Version: 1.1
     Author URI: http://www.powr.io
     */
 
@@ -42,7 +42,7 @@
           if(powr_local_mode()){//Determine JS url:
             $js_url = '//localhost:3000/powr_local.js';
           }else{
-            $js_url = '//powr.io/powr.js';
+            $js_url = '//www.powr.io/powr.js';
           }
           ?>
           <script>
