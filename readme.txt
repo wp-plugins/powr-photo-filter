@@ -2,7 +2,7 @@
 ===POWr Photo Filter===
 Contributors: powr
 Donate link: http://powr.io/
-Tags: photo filter, image filter, photo editor, image editor, photo watermark, image watermark, image animation, photo animation, image caption, photo caption, image resize, photo resize, photo editor plugin, image editor plugin, photo editor widget, image editor widget
+Tags: photo filter, image filter, photo editor, image editor, photo watermark, image watermark, image animation, photo animation, image caption, photo caption, image resize, photo resize, photo editor plugin, image editor plugin, photo editor widget, image editor widget, instagram, free filter, filter app, online photo, free, responsive design, easy, personalize, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive
 Requires at least: 3.0
 Tested up to: 4.0
 Stable tag: 1.1
@@ -12,11 +12,16 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 POWr Photo Filter lets you add dynamic filters to photos and images with no extra software.  Edit right in your web page!
 
 == Description ==
-**POWr Photo Filter** is a fast, simple, and easily customized plugin you can edit **right in your web page**.
-Add the widget to your site, or use the shortcode **[powr-photo-filter]** to add Photo Filter to any post.
-<br><br>
-POWr plugins can be used on virtually any website!  Learn more at [www.POWr.io](http://www.powr.io/)
+POWr Photo Filter is a free cloud-based application.  Create a POWr account to add, edit, and customize POWr Plugins right in your webpage.
 <br>
+<br>
+To use Photo Filter, download and install the plugin, then add to your site as a widget or a shortcode in any post or page: **[powr-banner-slider]**
+
+<blockquote>
+= <a href='https://www.powr.io/plugins/photo-filter'>Download</a>  |  <a href='http://www.powr.io/tutorials/how-to-add-photo-filter-plugin-to-your-wordpress-site'>Install Help</a>  |  <a href='http://www.powr.io/knowledge-base'>Knowledge Base</a>  |  <a href='http://www.powr.io/plugins'>More from POWr</a> =
+<br>
+</blockquote>
+
 = Free Features =
 * High quality filters control grayscale, sepia, saturation, hue, contrast, opacity, brightness, blur, and more!
 * Protect your photos and images with watermarks or by disabling right-click.
@@ -24,12 +29,12 @@ POWr plugins can be used on virtually any website!  Learn more at [www.POWr.io](
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device.
 <br>
-= Upgrade to POWr Pro and: =
+= Upgrade to POWr Premium ($2.99)/month and: =
 * Eliminate all POWr logos and watermarks
+
 * Boost plugin load speeds
 * Receive premium POWr support
 * Support the development of other great plugins
-
 
 == Installation ==
 To install POWr Photo Filter
@@ -46,11 +51,12 @@ Want a more detailed tutorial? Visit [How to add Photo Filter to your Wordpress 
 
 
 == Frequently Asked Questions ==
-= How can I add Photo Filter to a blog post or page? = Just add the shortcode **[powr-photo-filter label='MY LABEL']** (including the brackets) in your post where you'd like your Photo Filter to appear. Then visit your page!
 
-= How can I add  Photo Filter to my site multiple times? = Just be sure to specify different label text, eg **[powr-photo-filter label='MY LABEL 1']**, **[powr-photo-filter label='MY LABEL 2']** for each time you use the plugin
+= Do I need to create a POWr Account? = Yes, you need a POWr Account.  Your account allows you to edit plugins right in your live webpage, and to recreate plugins across many different sites.
 
-= Why do you require me to sign up? = Signing up is what allows us to track which plugins are yours, and allows you to edit them right in your page.
+= How do I add Photo Filter to a page or blog post? = Add the shortcode **[powr-photo-filter label='Enter any label here']** to any page or post. Then visit your live site to edit.
+
+= Can I add more than one Photo Filter? = Yes, absolutely!  To clone your Photo Filter, just add the exact same shortcode to pages or posts.  To create a new version of Photo Filter, add a different shortcode to each page or post, for example: **[powr-photo-filter label='first form']**, and **[powr-photo-filter label='second form']**.
 
 = Will my users see the settings icon in the corner of the Photo Filter? = No! You only see the settings icon because you own the plugins. To temporarily hide it, click on your page and then type 'p + down arrow' (the letter p followed by the down arrow). You can show the icon again by typing 'p + up-arrow'.
 
@@ -58,7 +64,7 @@ Want a more detailed tutorial? Visit [How to add Photo Filter to your Wordpress 
 
 = Is POWr Photo Filter Free? = Yes, the basic version of Photo Filter is completely free!
 
-= Why should I upgrade? = Upgrading removes all POWr watermarks, speeds up widget loading speed, gets you premium support, and most importantly supports the creation of more great plugins!
+= Why should I upgrade? = Upgrading gives you access to advanced features, removes all POWr watermarks, speeds up widget loading speed, gets you premium support, and supports the creation of more great plugins!
 
 
 == Screenshots ==
