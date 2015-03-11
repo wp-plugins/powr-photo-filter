@@ -22,7 +22,6 @@ First, download, install, and activate POWr Photo Filter. Then drop the widget a
 <br>
 = <a href='http://www.powr.io/tutorials/how-to-add-photo-filter-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
-
 = Free Features =
 * High quality filters control grayscale, sepia, saturation, hue, contrast, opacity, brightness, blur, and more!
 * Protect your photos and images with watermarks or by disabling right-click.
@@ -32,9 +31,10 @@ First, download, install, and activate POWr Photo Filter. Then drop the widget a
 <br>
 = Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-
+* Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
 
 == Installation ==
 Download, install, and activate POWr Photo Filter.
