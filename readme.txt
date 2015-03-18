@@ -36,6 +36,7 @@ First, download, install, and activate POWr Photo Filter. Then drop the widget a
 * Support the development of other great plugins
 
 
+
 == Installation ==
 Download, install, and activate POWr Photo Filter.
 <br>
