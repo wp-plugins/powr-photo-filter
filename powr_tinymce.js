@@ -2,7 +2,8 @@ tinymce.PluginManager.add('powr', function(editor, url) {
     editor.addButton('powr', {
         title : 'POWr Plugin',
         tooltip: 'Insert POWr Plugin',
-        image : 'powr-icon.png',
+        //image : 'powr-icon.png',
+        icon: 'icon powr-icon',
         type: 'menubutton',
         onclick : function(e) {
 			var app_name = e.target.innerText.replace(/^\s+|\s+$/g, '');
