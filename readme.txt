@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Photoshop-style filters for any image!
 
 == Description ==
-Photoshop-style filters for any image!
+ Photoshop-style filters for any image!
 <br>
 <br>
 POWr Photo Filter is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
