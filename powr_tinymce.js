@@ -21,6 +21,7 @@ tinymce.PluginManager.add('powr', function(editor, url) {
 					{text: 'Contact Form'},
 					{text: 'Form Builder'},
 					{text: 'Mailing List'},
+                    {text: 'Order Form'},
 					{text: 'Poll'},
 					{text: 'Survey'}			 
                 ]
