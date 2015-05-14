@@ -58,6 +58,8 @@ tinymce.PluginManager.add('powr', function(editor, url) {
             {
                 text: 'eCommerce',
                 menu: [
+                    {text: 'Ecommerce'},
+                    {text: 'Digital Download'},
                     {text: 'Paypal Button'},
 					{text: 'Plan Comparison'},
 					{text: 'Price Table'}
