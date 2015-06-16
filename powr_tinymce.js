@@ -47,6 +47,8 @@ tinymce.PluginManager.add('powr', function(editor, url) {
                     {text: 'Comments'},
 					{text: 'Facebook Feed'},
 					{text: 'Instagram Feed'},
+                    {text: 'Pinterest Feed'},
+                    {text: 'Reviews'},
 					{text: 'RSS Feed'},
 					{text: 'Social Feed'},
 					{text: 'Social Media Icons'},
