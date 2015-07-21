@@ -32,13 +32,16 @@ tinymce.PluginManager.add('powr', function(editor, url) {
 					{text: 'Banner Slider'},
 					{text: 'Event Gallery'},
 					{text: 'Event Slider'},
+                    {text: 'Flickr Gallery'},
 					{text: 'Image Slider'},
 					{text: 'Media Gallery'},
 					{text: 'Microblog'},
 					{text: 'Multi Slider'},
 					{text: 'Photo Gallery'},
 					{text: 'Video Gallery'},
-					{text: 'Video Slider'}
+					{text: 'Video Slider'},
+                    {text: 'Vimeo Gallery'},
+                    {text: 'Youtube Gallery'}
 				]
 			},	
             {
@@ -47,13 +50,15 @@ tinymce.PluginManager.add('powr', function(editor, url) {
                     {text: 'Comments'},
 					{text: 'Facebook Feed'},
 					{text: 'Instagram Feed'},
+                    {text: 'Meerkat'},
                     {text: 'Pinterest Feed'},
                     {text: 'Reviews'},
 					{text: 'RSS Feed'},
 					{text: 'Social Feed'},
 					{text: 'Social Media Icons'},
 					{text: 'Tumblr Feed'},
-					{text: 'Twitter Feed'}			 
+					{text: 'Twitter Feed'},
+                    {text: 'Vine Feed'}
                 ]
                 
             },
@@ -73,6 +78,8 @@ tinymce.PluginManager.add('powr', function(editor, url) {
 					{text: 'About Us'},
 					{text: 'Button'},
 					{text: 'Countdown Timer'},
+                    {text: 'Countup Timer'},
+                    {text: 'Graph'},
 					{text: 'Hit Counter'},
 					{text: 'Holiday Countdown'},
 					{text: 'Map'},
